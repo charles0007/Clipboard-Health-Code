@@ -1,0 +1,16 @@
+{
+  "name": "ticket_breakdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}
